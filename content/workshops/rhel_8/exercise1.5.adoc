@@ -58,3 +58,5 @@ And now let's test communication to the same site; now it connects, and reports 
 ----
 timeout 3 openssl s_client --connect tls-v1-1.badssl.com:1011 | grep Protocol
 ----
+
+{{< importPartial "footer/footer.html" >}}

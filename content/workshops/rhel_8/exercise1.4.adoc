@@ -80,3 +80,6 @@ image::TerminalRecording-09d8f.png[]
 By clicking on one of the sessions you are presented with a player to view the recording in as shown:
 
 image::TerminalRecording-178f1.png[]
+
+
+{{< importPartial "footer/footer.html" >}}

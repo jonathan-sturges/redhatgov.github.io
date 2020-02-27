@@ -288,3 +288,5 @@ Wired connection 1  9738a5c6-39dd-3515-aa1c-895f763851a6  ethernet  --
 == Summary - What We've Learned
 
 Linux System Roles based on Ansible playbooks make it easy and consistent to enable specific services and configurations on your RHEL hosts, and across many versions.  We experimented with the *network* system role in this exercise, but *storage*, *kdump (kernel crash dump)*, *selinux*, and *timesync* are also available.
+
+{{< importPartial "footer/footer.html" >}}

@@ -142,3 +142,5 @@ The playbook will take several minutes to run.
 //sudo oscap xccdf generate fix --fetch-remote-resources --fix-type bash --result-id "" /tmp/arf.xml > /tmp/ospp-bash-fix.sh
 //sudo chmod a+x /tmp/ospp-bash-fix.sh
 //sudo /tmp/ospp-bash-fix.sh
+
+{{< importPartial "footer/footer.html" >}}
